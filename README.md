@@ -14,9 +14,10 @@ Dengan mengganti default hop limit (TTL), kamu bisa **menghindari deteksi tether
 
 ## ⚙️ Cara Pakai
 
-1. Download file `HLC.cmd`
-2. **Klik kanan → Run as Administrator**
-3. Pilih opsi:
+[![Download](https://img.shields.io/badge/Download-HLC.cmd-blue?style=for-the-badge)](https://github.com/ariphx/HLC/archive/refs/tags/v1.0.zip)
+
+1. **Klik kanan → Run as Administrator**
+2. Pilih opsi:
    - `1` → Set hop limit ke 65 (untuk tethering Axis unlimited)
    - `2` → Reset ke default TTL Windows
    - `0` → Keluar
